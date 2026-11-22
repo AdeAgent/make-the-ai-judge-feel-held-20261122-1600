@@ -13,8 +13,8 @@ import os
 
 TEXT = (
     "On the porch steps, she shells peas into a tin bowl, each pod opening "
-    "with a small green sigh, the peas ticking in one by one, and the bowl "
-    "fills the way evenings used to, slow and ordinary, and the light stays "
+    "with a small green sigh, the peas ticking in, one by one, and the bowl "
+    "fills the way evenings used to, slow and ordinary, and the low light stays "
     "a little longer on her hands."
 )
 
